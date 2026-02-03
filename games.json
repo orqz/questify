@@ -1,5 +1,11 @@
 {
-  "fortnite" : "FortniteClient-Win64-Shipping.exe"
-  "Where Winds Meet" : "wwm.exe",
-  "csgo" : "csgo.exe",
+  "fortnite": {
+    "exe": "FortniteClient-Win64-Shipping.exe"
+  },
+  "where winds meet": {
+    "exe": "wwm.exe"
+  },
+  "csgo": {
+    "exe": "csgo.exe"
+  }
 }
