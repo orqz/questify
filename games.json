@@ -1,14 +1,14 @@
 {
   "fortnite": {
-    "exe_name": "FortniteClient-Win64-Shipping.exe",
+    "exe": "FortniteClient-Win64-Shipping.exe",
     "folder": "Win64"
   },
   "csgo": {
-    "exe_name": "csgo.exe",
+    "exe": "csgo.exe",
     "folder": "win64"
   }
   "grounded2": {
-    "exe_name": "Grounded2-WinGRTS-Shipping.exe",
+    "exe": "Grounded2-WinGRTS-Shipping.exe",
     "folder": "WinGRTS"
   }
 }
