@@ -1,5 +1,14 @@
 {
-  "fortnite" : "fortniteClient-Win64-Shipping.exe",
-  "where-winds-meet" : "wwm.exe",
-  "csgo" : "csgo.exe"
+  "fortnite": {
+    "exe_name": "FortniteClient-Win64-Shipping.exe",
+    "folder": "Win64"
+  },
+  "csgo": {
+    "exe_name": "csgo.exe",
+    "folder": "win64"
+  }
+  "Grounded2": {
+    "exe_name": "Grounded2-WinGRTS-Shipping.exe",
+    "folder": "WinGRTS"
+  }
 }
