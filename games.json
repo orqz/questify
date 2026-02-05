@@ -6,9 +6,9 @@
   "csgo": {
     "exe": "csgo.exe",
     "folder": "win64"
-  }
+  },
   "grounded2": {
-    "exe": "Grounded2-WinGRTS-Shipping.exe"
+    "exe": "Grounded2-WinGRTS-Shipping.exe",
     "folder": "WinGRTS"
   }
 }
