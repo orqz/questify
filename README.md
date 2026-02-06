@@ -73,5 +73,13 @@ dist/questify.exe
 
 Run it like any normal program.
 
+---
+
+## Warning
+
+> **Important**
+> The executable must be named `questify.exe`.
+> Any other name will cause the program to not work correctly.
+
 
 
