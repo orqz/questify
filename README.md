@@ -39,11 +39,39 @@ with a matching folder name so Discord detects it as a running game.
 
 ## Installation
 
+### Download (recommended)
+
+Download the latest ready-to-use `.exe` from [Releases](https://github.com/orqz/questify/releases):
+
+No setup required. Just download and run.
+
+---
+
+### Don’t trust the `.exe`? (fair i wouldnt either)
+
+You can compile the source yourself using PyInstaller.
+
+### Step 1 — Install dependencies
+
 ```bash
-git clone https://github.com/orqz/questify
-cd questify
-pip install requests
-python main.py
+pip install requests pyinstaller
 ```
+
+### Step 2 — Build the executable
+
+```bash
+pyinstaller --onefile questify.py
+```
+
+### Step 3 — Done
+
+Your compiled file will be created here:
+
+```
+dist/questify.exe
+```
+
+Run it like any normal program.
+
 
 
