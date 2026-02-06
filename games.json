@@ -14,7 +14,7 @@
   "wherewindsmeet": {
     "exe": "wwm",
     "folder": "win64"
-  },
+  }, 
   "oncehuman": {
     "exe": "ONCE_HUMAN",
     "folder": "once human"
