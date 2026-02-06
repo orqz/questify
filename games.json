@@ -1,14 +1,22 @@
 {
-  "fortnite": {
-    "exe": "FortniteClient-Win64-Shipping",
-    "folder": "Win64"
+  "summonerwar": {
+    "exe": "SummonersWar",
+    "folder": "Summoners War"
   },
-  "csgo": {
-    "exe": "csgo",
+  "deltaforce": {
+    "exe": "DeltaForceClient-Win64-Shipping",
     "folder": "win64"
   },
   "grounded2": {
     "exe": "Grounded2-WinGRTS-Shipping",
     "folder": "WinGRTS"
+  },
+  "wherewindsmeet": {
+    "exe": "wwm",
+    "folder": "win64"
+  },
+  "oncehuman": {
+    "exe": "ONCE_HUMAN",
+    "folder": "once human"
   }
 }
