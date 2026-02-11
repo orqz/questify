@@ -18,5 +18,9 @@
   "oncehuman": {
     "exe": "ONCE_HUMAN",
     "folder": "once human"
+  },
+  "vindictus": {
+    "exe": "Vindictus",
+    "folder": "win64"
   }
 }
