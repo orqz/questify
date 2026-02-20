@@ -15,7 +15,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/github/v/release/orqz/questify?style=for-the-badge&cacheSeconds=3600">
-  <img src="https://img.shields.io/github/downloads/orqz/questify/total?style=for-the-badge&cacheSeconds=86400">
+  <img src="https://img.shields.io/github/downloads/orqz/questify/total?style=for-the-badge&cacheSeconds=86400&v=2">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge">
 </p>
