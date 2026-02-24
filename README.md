@@ -9,7 +9,7 @@
 
 <p align="center">
   Easily complete Quest on discord without downloading or owning any games!<br>
-  (took me 30 minutes)
+  (<3)
 </p>
 
 <!-- Badges -->
